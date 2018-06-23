@@ -2156,40 +2156,6 @@ body {
 .cid-qOwXcOLImv .mbr-section-title B {
   color: #efefef;
 }
-.cid-qPKQBQq2WU {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #fafafa;
-}
-.cid-qPKQBQq2WU h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qPKQBQq2WU .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-qPKQBQq2WU .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qPKQBQq2WU .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-qPKQBQq2WU ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-qPKQBQq2WU path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qPKQBQq2WU .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
 .cid-qOumDPL6GJ {
   padding-top: 30px;
   padding-bottom: 0px;
